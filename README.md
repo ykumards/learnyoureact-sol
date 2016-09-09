@@ -1,2 +1,2 @@
 # learnyoureact-sol
-Solutions to learnyoureact
+Solutions to [learnyoureact](https://github.com/kohei-takata/learnyoureact)
